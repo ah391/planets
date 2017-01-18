@@ -1,3 +1,4 @@
 Mars:
 mars is red
-and dry
+and dry (but it once had water)
+
